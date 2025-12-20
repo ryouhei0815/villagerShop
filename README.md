@@ -1,7 +1,7 @@
-# VillagerShop
+# VillagerShop  
 村人ショップ  
-村人のCustomNameを参照してショップを開きます。  
-ままたショップを作成しやすいようにいくつかアイテムが追加されています。  
+村人のCustomNameを参照してショップを開きます。    
+ままたショップを作成しやすいようにいくつかアイテムが追加されています。    
 
 #Commands
 /villageShop shop create <ShopName> - ショップを新しく作成します。  
